@@ -1,0 +1,36 @@
+---
+title: Wie installiert man Chrome unter Windows 10
+layout: post
+---
+
+# Wie installiere ich Chrome unter Windows 10
+
+Hier erkläte ich wie man Chrome unter Windows 10 installiert.
+
+# Ziele 
+Ich will den Menschen erklären, wie man Google Chrome installiert, wenn man Windows 10 frisch installiert hat.
+
+# Text
+Wenn sie Windows 10 frisch installiert haben, prüfen Sie erstmal, ob sie eine funktionierende Internetverbindung haben. Sollte dies der Fall sein, besuchen Sie den eigenen Browser von Windows, auch bekannt als Microsoft Edge. Sollten Sie diesen nicht finden, so suchen Sie auf der Taskleiste, unten am Bildschirm nach der Lupe, klicken dort darauf und geben dort Edge ein. Dann öffnen sie diesen. Nachdem Sie alle folgenden Pop-Ups geschlossen haben geben sie in der Suchzeile, "Google Chrome" ein, und drücken Sie "Enter". Dann besuchen Sie die oberste Seite und wählen Sie die Option, welche auf Sie zutrifft. Dann wird ein Download gestartet. Danach folgen Sie den Anweisungen des Programms. 
+
+# Bild
+![Bild](https://www.howtogeek.com/wp-content/uploads/2020/02/Windows-10-Installing-Chrome.png?trim=1,1&bg-color=000&pad=1,1)
+
+# Video
+[![Bild](https://i.ytimg.com/vi/Ew_ReoK1zMc/maxresdefault.jpg)](https://youtu.be/5YnFbV1YhpA)
+
+# Reflektion & Verifikation
+Ich hatte Probleme beim Folgen der Anweisungen, welche mir das Programm gegeben hat, weil ich zu sehr abgelenkt war.
+
+Nächstes Mal werde ich mich in einer ruhigeren Umgebung befinden.
+
+ 
+
+Ziele: Ich habe meinem Kollegen ein Portfolio gegeben, damit er ohne Probleme Chrome installieren kann.
+
+✔ Er konnte Chrome ohne Probleme installieren. 
+
+
+
+
+
