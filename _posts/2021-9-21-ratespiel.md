@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wie installiert man Chrome unter Windows 10
+title: Ratespiel
 ---
 
 # Ratespiel (LA_1200)
